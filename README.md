@@ -80,7 +80,7 @@ This project was completed as an individual internship deliverable. For future e
 
 **Ganesh Chandrakant Ghadge**  
 Salesforce Intern – HandsMen Threads  
-[LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ganesh-ghadge-9b103a258/)) | [Trailhead Profile]([https://trailhead.salesforce.com/en/me/yourusername](https://www.salesforce.com/trailblazer/u5bvlegjlbirof8wp0))
+[LinkedIn](https://www.linkedin.com/in/ganesh-ghadge-9b103a258/) | [Trailhead Profile](https://www.salesforce.com/trailblazer/u5bvlegjlbirof8wp0)
 
 ---
 
