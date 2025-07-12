@@ -6,9 +6,14 @@
 
 ## Project Overview
 
-HandsMen Threads specializes in premium custom menswear. This project aims to streamline their tailoring workflow through a fully integrated Salesforce platform — from order placement and customer engagement to inventory management and internal operations.
+HandsMen Threads focuses on high-end custom tailoring. This Salesforce-powered solution streamlines internal operations across Sales, Support, Warehouse, and Marketing. The platform automates:
 
-Built using Salesforce Developer Edition and guided by real-world requirements, this solution showcases practical implementations of CRM automation, data modeling, and user interface design in a retail context.
+- Order confirmations and customer communication
+- Loyalty status management via purchase history
+- Inventory restocking alerts
+- Scheduled financial updates for bulk orders
+
+Built using **Salesforce Developer Edition**, this project reflects real-world data modeling and enterprise automation.
 
 ---
 
@@ -29,6 +34,7 @@ Built using Salesforce Developer Edition and guided by real-world requirements, 
 - **Platform:** Salesforce CRM (Developer Edition)
 - **Declarative Tools:** Flow Builder, Lightning App Builder
 - **Programmatic Tools:** Apex Classes, Triggers, Batch Apex
+- **Data Security**: Roles, Profiles, Permission Sets
 - **Dev Tools:** GitHub
 
 ---
@@ -51,12 +57,18 @@ Built using Salesforce Developer Edition and guided by real-world requirements, 
 
 ---
 
-## Documentation
+## Repository Structure (_to_be_added_)
 
--  [Project Initiation Document (PID)](./Project_Initiation_Document.pdf)
--  [Change Log](./Change_Log.xlsx) _(to be added)_
--  [User Guide](./docs/User_Guide.md) _(to be added)_
--  [Test Scenarios](./docs/Test_Cases.md) _(to be added)_
+---
+
+## Learning Outcomes
+
+- Designing scalable data models and object relationships
+- Applying UI validation and business logic using Apex
+- Automating operational workflows using Flow Builder and Batch Apex
+- Configuring secure access with roles, profiles, and permission sets
+- Triggering customer communication with Email Alerts
+- Building and deploying Lightning Apps for modular access
 
 ---
 
@@ -72,7 +84,7 @@ This project was completed as an individual internship deliverable. For future e
 
 ## Status
 
-> **Current Phase:**  Starting  
+> **Current Phase:**  Partially Completed  
 
 ---
 
@@ -83,5 +95,4 @@ Salesforce Intern – HandsMen Threads
 [LinkedIn](https://www.linkedin.com/in/ganesh-ghadge-9b103a258/) | [Trailhead Profile](https://www.salesforce.com/trailblazer/u5bvlegjlbirof8wp0)
 
 ---
-
 
